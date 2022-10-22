@@ -1,5 +1,5 @@
 # 'This could happen to any of us': Graphic video of men stomping on a woman's head shakes China to the core
-a harrowing video; painful  
+a *harrowing* video; painful  
 shook her to the core  
 in surveillance footage; square footage 建筑面积  
 In surveillance footage, three women are shown sharing a meal in a barbeque restaurant when a man approaches their table and places his hand on the back of one of the women.  
