@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 presentation
 pounds
 village
@@ -338,3 +339,12 @@ soar increase
 solely alone
 solicitor lawyer
 steer manage
+=======
+
+synopsis : 
+intrusive : 
+boilerplate :  
+pervade : 
+
+plunder : plunder your life
+>>>>>>> 3bcb3c9aa145bfcc164155d9b176af7620b2a9c9
