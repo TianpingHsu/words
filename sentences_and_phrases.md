@@ -92,3 +92,10 @@ Shared resentment of the West is the force that binds China to its closest partn
 gloomy consumers in China  
 
 a humanitarian crisis is escalating.  
+
+
+## 12.07
+
+enlist the coalition  
+
+
