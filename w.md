@@ -9,10 +9,10 @@ principle rule
 expertise knowledge skill
 *faculty* n. 能力, 才能 技巧 院, 系, 部 全体教职员, 全体从业人员
 incentive motive stimulus
-mortaliry death
+mortality death
 *vicinity* nearby neighbourhood, in the vicinity of the school
 *jeopardize* ruin
-*blight* destroy bankrupt is the blight of the family
+*blight* destroy `bankrupt is the blight of the family`
 bungle mishandle `a bungled performance`
 calamity disaster
 cater serve satisfy `cater for the need of customers`
@@ -42,7 +42,7 @@ supremacy priority `white supremacy`
 paramount principal `be paramount to all others`
 toll charge
 transcend excel
-overtake surpass exceed
+overtake `surpass` exceed
 paralyse
 subdue `The country was subdued by the enemy.`
 repetitive 啰嗦的 monotonous
@@ -108,3 +108,4 @@ encyclopaedia entire range of knowledge
 equator geography
 erratically unpredictably
 ethical moral
+
